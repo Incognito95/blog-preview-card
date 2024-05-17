@@ -1,0 +1,14 @@
+body,
+.badge {
+    background-color: #f5cf4d;
+}
+
+.card {
+    margin-top: 350px;
+    box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 1);
+    background-color: white;
+}
+
+.card-text {
+    font-size: 12px;
+}
